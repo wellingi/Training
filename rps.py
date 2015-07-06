@@ -63,7 +63,7 @@ print """
     ---------------------------------
     Where Rock Beats Scissors,
     Scissors Cuts Paper,
-    And Paper Cuts Rock!
+    And Paper Covers Rock!
     ---------------------------------
     Would you like to play? Yes or No?
 """
